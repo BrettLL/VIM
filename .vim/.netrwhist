@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/deepinsight/wuwei/tensorflow_demo'
+let g:netrw_dirhist_2='/home/deepinsight/jiaguo/tf-cl/models/transformer/taobao_train'
+let g:netrw_dirhist_3='/home/deepinsight/wanglei/xiaomi-cloud-ml-sdk/master_ckp'
+let g:netrw_dirhist_4='/home/deepinsight/jiaguo/codebase/transfer-mxnet'
+let g:netrw_dirhist_5='/home/deepinsight/tongzhen/sync-repo'
+let g:netrw_dirhist_6='/home/deepinsight/jiaguo/codebase/aichallenger/scene/irv2_pack/rt299_val'
